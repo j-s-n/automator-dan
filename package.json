@@ -1,0 +1,19 @@
+{
+  "name": "automator-dan",
+  "version": "1.0.0",
+  "description": "An automated build utility for browserify+watchify/SASS projects, with a tiny live CSS reloading server",
+  "bin": {
+    "automator-dan": "./index.js"
+  },
+  "dependencies": {
+    "browserify": "^13.1.0",
+    "command-line-args": "^3.0.1",
+    "command-line-usage": "^3.0.4",
+    "node-sass": "^3.10.1",
+    "watch": "^1.0.1",
+    "watchify": "^3.7.0",
+    "ws": "^1.1.1"
+  },
+  "author": "J.S. Nelson",
+  "license": "MIT"
+}
