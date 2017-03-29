@@ -2,6 +2,10 @@
 
 An automated build utility for browserify+watchify/SASS projects, with a tiny live CSS reloading server.
 
+# NOTICE
+
+`automator-dan` is deprecated. I switched to webpack, and it radically simplified my build process. Check out [jsn-web-boilerplate](https://github.com/j-s-n/jsn-web-boilerplate) for an example webpack configuration that achieves the same thing as `automator-dan` using [live-update-server](https://github.com/j-s-n/live-update-server).
+
 ## Installation
 
 ```
